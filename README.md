@@ -1,2 +1,4 @@
 # proyecto-02
-Creative company
+Creative Proyecto
+Proyecto realizado con HTML5 Y CSS3
+
